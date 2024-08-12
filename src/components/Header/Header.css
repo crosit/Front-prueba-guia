@@ -1,0 +1,32 @@
+/* src/components/Header/Header.css */
+header {
+  background-color: #282c34;
+  padding: 20px;
+  color: white;
+}
+
+nav ul {
+  list-style: none;
+  display: flex;
+  gap: 20px;
+}
+
+nav ul li a {
+  color: white;
+  text-decoration: none;
+}
+nav li a:hover {
+  background-color: #f0f0f0;
+  color: #000000;
+}
+
+.logoutButton {
+  margin-left: auto;
+  padding-right: 20px;
+}
+
+  /* src/pages/HomePage/HomePage.css */
+  /* Personaliza la página de inicio aquí */
+
+  /* src/pages/UserPage/UserPage.css */
+  /* Personaliza la página de usuarios aquí */
